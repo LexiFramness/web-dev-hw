@@ -9,4 +9,4 @@ The structural markup is what is on a page. While the semantic markup is how the
 Well I had the due dates for everything written down wrong, I somehow changed out the 15th, with the 17th, in my planner, so I am a little behind this week. I basically just buckled down and plowed through the reading this week, so that I could make up for lost time.
 
 ## Screenshot of Workflow
- (.images/workflow.png)
+ ![screenshot] (workflow.png)
