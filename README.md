@@ -6,5 +6,6 @@
 
 [Assignment 4](/Assignment-4/index.html)
 
-[Project 1](/Project 1/index.html)
-[Project 2](/Project 2/index.html)
+[Project 1](/Project1/index.html)
+
+[Project 2](/Project2/index.html)
