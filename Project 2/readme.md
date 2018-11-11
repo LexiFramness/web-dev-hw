@@ -11,4 +11,4 @@ I also had some trouble remember iframe links, and had to refresh my memory on u
 When it comes to using CSS for styling, I am excited to give it a try. I am hoping it will make for some fun website design.
 
 ## Screenshot of Workflow
- ![screenshot](./images/Workflow.png)
+ ![screenshot](./images/Workflow1.png)
