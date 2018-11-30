@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  /*black seemed to be common as a background, so i decided to use it for the body*/
+
+}
+.container {
+    color: teal
+}
+#box-one {
+    background-color: lightblue;
+    text-align: right;
+    font-size: 30
+}
+#box-two {
+    background-color: gold;
+    text-align: center;
+    font-size: 30
+}
+#box-three {
+    background-color: pink;
+    text-align: left;
+    font-size: 30
+}
