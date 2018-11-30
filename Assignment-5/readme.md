@@ -7,7 +7,7 @@ I choose to use images from the 1980s. I picked colors for the backgrounds that 
 ## What colors were used.
 I decided to use a black background for the body of my html page, and then used pink, light blue, and gold for the colors of my div backgrounds.
 ## Summarize work cycle.
-This week was fairly straight forward, I could not find the song in an mp3 format to embed, so I embedded a preview link from Apple Music, which is the media player I use.
+This week was fairly straight forward, the most difficult part was the opacity, I originally tried to put it in the CSS file, but was struggling so i ended up putting it in style on my index.html file.
 
 ## Screenshot of Workflow
  ![screenshot](./images/Workflow.png)
