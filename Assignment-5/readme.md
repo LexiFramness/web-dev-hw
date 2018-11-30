@@ -1,5 +1,3 @@
-<h1>Assignment 5</h1>
-
 <h2>Technical Report</h2>
 
 ## Briefly describe your design research
