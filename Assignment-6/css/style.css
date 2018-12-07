@@ -1,7 +1,7 @@
 body {
   background-color: gray;
   font-style: normal;
-  font-family: 'GothamBold', serif;
+  font-family: 'Caveat',cursive;
 }
 .container p::first-letter {
   color: green;
