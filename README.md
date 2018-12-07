@@ -11,3 +11,5 @@
 [Project 2](/Project2/index.html)
 
 [Assignment 5](/Assignment-5/index.html)
+
+[Assignment 6](/Assignment-6/index.html)

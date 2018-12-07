@@ -1,0 +1,39 @@
+body {
+  background-color: gray;
+  font-style: normal;
+  font-family: 'GothamBold', serif;
+}
+.container p::first-letter {
+  color: green;
+}
+.container { background-color: white;
+  padding: 4em;
+  margin: 3em;
+}
+.container2 {
+  background-color: white;
+  padding: 4em;
+  margin: 3em;
+}
+.container3 {
+  background-color: white;
+  padding: 4em;
+  margin: 3em;
+}
+#title h1{ font-style: oblique;
+  text-align: center;
+  font-size: 60;
+  font-family: 'GothamBold'
+}
+#title h2{font-variant: small-caps;
+  text-align: center;
+  font-size: 30;
+  font-family: 'GothamLightital';
+}
+
+#part-one { font-style: italic;
+  font-family: 'GothamBook';
+}
+#part-two {font-style: italic;
+  font-family: 'GothamBook'
+}
