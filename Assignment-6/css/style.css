@@ -23,12 +23,12 @@ body {
 #title h1{ font-style: oblique;
   text-align: center;
   font-size: 60;
-  font-family: 'GothamBold'
+  font-style: italic;
 }
 #title h2{font-variant: small-caps;
   text-align: center;
   font-size: 30;
-  font-family: 'GothamLightital';
+  font-weight: lighter;
 }
 
 #part-one { font-style: italic;
