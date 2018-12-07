@@ -1,22 +1,14 @@
 body {
-  background-color: gray;
+  background-color: maroon;
   font-style: normal;
   font-family: 'Caveat',cursive;
 }
 .container p::first-letter {
-  color: green;
-}
-.container { background-color: white;
-  padding: 4em;
-  margin: 3em;
-}
-.container2 {
-  background-color: white;
-  padding: 4em;
-  margin: 3em;
+  color: Gold;
+  font-size: 30;
 }
 .container3 {
-  background-color: white;
+  background-color: gray;
   padding: 4em;
   margin: 3em;
 }
