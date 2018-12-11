@@ -6,11 +6,13 @@ Padding is the spacing around all 4 sides of the content inside the element. It 
 The boarder surrounds an element, and can be used to define the edge of your elements.
 
 ##What was the hardest task for you to accomplish this assignment? For example, was it overlapping elements, working with sizing, creating layout, or something else entirely?
-The hardest part of this assignment was coming up with a layout, that I liked, I ended up recreating part of the example, because it is what I ended up liking the most.
+The hardest part of this assignment was coming up with a layout, that I liked, I ended up recreating part of the example, because it is what I ended up liking the most. I also struggled getting the sizing right on overlapping items, so that it looked nice.
 
 ## Summarize your work cycle for this assignment.
 For this assignment, I started by picking out the content I wanted to include in my page. I then when and picked out a font using the google fonts site.
 
 I then dropped all of my content into my index file. After placing my content in order I could begin formatting using my css page. I ran into one time consuming issue formatting my button/link to github. I had given my div an id, rather than a class, and I was trying to format the button/link using a class in my css sheet. Once I figured out that that was my issue, I was able to finish up pretty quick, which allowed me to complete my project.
+
+Overall, I really enjoyed this final assignment, I wish I could of come up with my own design entirely, but I was really struggling to create a design/layout that I was happy with.
 
 ![screenshot](./images/Workflow.png)
