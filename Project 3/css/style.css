@@ -110,7 +110,5 @@ li {
   padding-left: 60px;
 }
 .dog img:hover{
-  visibility: visible;
   opacity: 0.5;
-  text-align: center;
 }
